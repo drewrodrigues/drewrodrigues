@@ -1,7 +1,7 @@
 # Hey, I'm Drew 👋
 <p>Welcome to my page!</p>
 
-<p>I'm a fullstack developer from 🌁 San Francisco, California working at Microsoft on <a href="https://www.lobe.ai/">Lobe</a> and <a href="https://powerapps.microsoft.com/en-us/ai-builder">AI Builder</a>..</p>
+<p>I'm a fullstack developer from 🌁 San Francisco, California working at Microsoft on <a href="https://www.lobe.ai/">Lobe</a> and <a href="https://powerapps.microsoft.com/en-us/ai-builder">AI Builder</a>.</p>
 
 ### Things I Work With
 <p>
