@@ -22,5 +22,5 @@
 </p>
 
 
-- 👀 Checkout my <a href="https://thesimpledev.github.io/portfolio/" target="_blank">portfolio</a>.
+- 👀 Checkout my <a href="https://thesimpledev.github.io/" target="_blank">portfolio</a>.
 - 📫 Contact me at <a href="mailto:thesimpledev@gmail.com">thesimpledev@gmail.com</a>.
