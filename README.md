@@ -1,5 +1,5 @@
 # Hey, I'm Drew 👋
-<p>I'm a self-taught fullstack developer from 🌁 San Francisco, California working at Microsoft on <a href="https://www.lobe.ai/">Lobe</a> and <a href="https://powerapps.microsoft.com/en-us/ai-builder">AI Builder</a>.</p>
+<p>I'm a self-taught Software Engineer from 🌁 San Francisco, California working at Microsoft on <a href="https://www.lobe.ai/">Lobe</a> and <a href="https://powerapps.microsoft.com/en-us/ai-builder">AI Builder</a>.</p>
 
 ### 💻 Things I Love & Create With
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
