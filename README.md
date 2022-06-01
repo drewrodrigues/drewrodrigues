@@ -32,7 +32,7 @@
 ### Cool Random Things I Built
 - 🧋 [shop_track](https://github.com/drewrodrigues/shop_track): Overly complex scraper and shop management system for [boba & black](https://www.instagram.com/boba.and.black/?hl=en).
 - 📗 flippinEasy: Landing page, newsletter signup, payment flow and more for an 80+ page ebook I made to help people learn how to flip products.
-- ❤️ instadate [client](https://github.com/drewrodrigues/instadate-client) & [server](https://github.com/drewrodrigues/instadate-api): Mobile app that gets people from behind their phones and on dates. The idea was to have a limit amount of messages and to push users off the platform as soon as possible.
+- ❤️ instadate ([client](https://github.com/drewrodrigues/instadate-client) & [server](https://github.com/drewrodrigues/instadate-api)): Mobile app that gets people from behind their phones and on dates. The idea was to have a limit amount of messages and to push users off the platform as soon as possible.
 
 ### 👍🏽 Thanks For Dropping By
 - 👀 Checkout my <a href="https://portfolio.drewrodrigues.com/" target="_blank">portfolio</a>
