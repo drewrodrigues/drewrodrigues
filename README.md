@@ -22,5 +22,5 @@
 </p>
 
 
-- 👀 Checkout my <a href="https://portfolio.drewrodrigues.com/" target="_blank">portfolio</a>.
-- 📫 Contact me at <a href="mailto:me@drewrodrigues.com">me@drewrodrigues.com</a>.
+- 👀 Checkout my <a href="https://portfolio.drewrodrigues.com/" target="_blank">portfolio</a>
+- 📫 Contact me at <a href="mailto:me@drewrodrigues.com">me@drewrodrigues.com</a>
