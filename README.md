@@ -1,7 +1,7 @@
 # Hey, I'm Drew 👋
 <p>I'm a fullstack developer from 🌁 San Francisco, California working at Microsoft on <a href="https://www.lobe.ai/">Lobe</a> and <a href="https://powerapps.microsoft.com/en-us/ai-builder">AI Builder</a>.</p>
 
-### Things I Work With
+### 💻 Things I Love & Create With
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -28,6 +28,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
+### 👍🏽 Thanks For Dropping By
 - 👀 Checkout my <a href="https://portfolio.drewrodrigues.com/" target="_blank">portfolio</a>
-- 📫 Contact me at <a href="mailto:me@drewrodrigues.com">me@drewrodrigues.com</a>
+- 📫 Email me at <a href="mailto:me@drewrodrigues.com">me@drewrodrigues.com</a>
