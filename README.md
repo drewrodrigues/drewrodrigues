@@ -31,6 +31,7 @@
 
 ### Cool Random Things I Built
 - [shop_track](https://github.com/drewrodrigues/shop_track): 🧋 Overly complex scraper and shop management system for [boba & black](https://www.instagram.com/boba.and.black/?hl=en)
+- flippinEasy: 📗 Landing page, newsletter signup, payment flow and more for an 80+ page ebook I made to help people learn how to flip products
 
 ### 👍🏽 Thanks For Dropping By
 - 👀 Checkout my <a href="https://portfolio.drewrodrigues.com/" target="_blank">portfolio</a>
