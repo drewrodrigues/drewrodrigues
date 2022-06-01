@@ -30,7 +30,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🧑🏽‍💻 Cool Things I've Built
-> Many of these are rough prototypes or not fully built out. I enjoy building things, so they don't always have to be complete for me to resolve my curiousity in an area. Also, check out my pinned repos!
+> Many of these are rough prototypes or not fully built out. I enjoy building things, so they don't always have to be complete for me to resolve my curiousity in an area.
+- 🧱 [blocky](https://github.com/drewrodrigues/blocky): A chrome extension that makes time blocking seemless in Google Calendar
+- 📈  [wolfGuard](https://github.com/drewrodrigues/wolfGuard): Experimental backtesting & day trading platform using the Interactive Broker API
+- 📄 [better_jobs](better_jobs): Save time finding jobs matches through keywords and point allocations
+- 👟 [agile_tracker](https://github.com/drewrodrigues/agile_tracker): Sprint based project management tool based on Pivotal Tracker
+- 🏔 [tripmates](https://github.com/drewrodrigues/tripmates): Trip planning made social
+- 📝 [quiz](https://github.com/drewrodrigues/quiz): Simple stateless quiz builder
 - 🧋 [shop_track](https://github.com/drewrodrigues/shop_track): Overly complex scraper and shop management system for [boba & black](https://www.instagram.com/boba.and.black/?hl=en).
 - 📗 flippinEasy: Landing page, newsletter signup, payment flow and more for an 80+ page ebook I made to help people learn how to flip products.
 - ❤️ instadate ([client](https://github.com/drewrodrigues/instadate-client) & [server](https://github.com/drewrodrigues/instadate-api)): Mobile app that gets people from behind their phones and on dates. The idea was to have a limit amount of messages and to push users off the platform as soon as possible.
