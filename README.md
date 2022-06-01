@@ -36,6 +36,7 @@
 - ❤️ instadate ([client](https://github.com/drewrodrigues/instadate-client) & [server](https://github.com/drewrodrigues/instadate-api)): Mobile app that gets people from behind their phones and on dates. The idea was to have a limit amount of messages and to push users off the platform as soon as possible.
 - 👁 [scoped](https://github.com/drewrodrigues/scoped): Desktop application which helps you stay on track with goals and focus on daily action to move you forward
 - 👥 [socially](https://github.com/drewrodrigues/socially): Mobile app that helps you be social with people around you now
+- 🧩 [scrabble](https://github.com/drewrodrigues/scrabble): Basic version of scrabble for the fun of it
 
 ### 👍🏽 Thanks For Dropping By
 - 👀 Checkout my <a href="https://portfolio.drewrodrigues.com/" target="_blank">portfolio</a>
