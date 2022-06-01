@@ -39,6 +39,8 @@
 - 🧩 [scrabble](https://github.com/drewrodrigues/scrabble): Basic version of scrabble for the fun of it
 - 🪙 [indeed_scrape](https://github.com/drewrodrigues/indeed_scrape): Scrape and search jobs using keywords and point allocations. This eventually led to me building [better_jobs](https://github.com/drewrodrigues/better_jobs) (in pinned repos).
 - 🏠 [engineerLiving](https://github.com/drewrodrigues/engineerLiving): Data visualization for the best places to live for software engineers
+- 📌 [dashEasy](https://github.com/drewrodrigues/dashEasy): Chrome extension dashboard for keeping track of basic things
+- 🍺 [smallBatchBrewing](https://github.com/drewrodrigues/smallBatchBrewing/tree/master/src): Simple tool to help convert beers recipes down to home brewing quantities
 
 ### 👍🏽 Thanks For Dropping By
 - 👀 Checkout my <a href="https://portfolio.drewrodrigues.com/" target="_blank">portfolio</a>
