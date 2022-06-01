@@ -29,6 +29,9 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### Cool Random Things I Built
+- [shop_track](https://github.com/drewrodrigues/shop_track): 🧋 Overly complex scraper and shop management system for [boba & black](https://www.instagram.com/boba.and.black/?hl=en)
+
 ### 👍🏽 Thanks For Dropping By
 - 👀 Checkout my <a href="https://portfolio.drewrodrigues.com/" target="_blank">portfolio</a>
 - 📫 Email me at <a href="mailto:me@drewrodrigues.com">me@drewrodrigues.com</a>
