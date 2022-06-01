@@ -29,12 +29,13 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🧑🏽‍💻 Cool Random Things I Built
-> In addition to my pinned repos
+### 🧑🏽‍💻 Cool Things I've Built
+> In addition to my pinned repos. Many of these are rough prototypes or not fully built out. I enjoy building things, so they don't always have to be complete for me to resolve my curiousity in an area.
 - 🧋 [shop_track](https://github.com/drewrodrigues/shop_track): Overly complex scraper and shop management system for [boba & black](https://www.instagram.com/boba.and.black/?hl=en).
 - 📗 flippinEasy: Landing page, newsletter signup, payment flow and more for an 80+ page ebook I made to help people learn how to flip products.
 - ❤️ instadate ([client](https://github.com/drewrodrigues/instadate-client) & [server](https://github.com/drewrodrigues/instadate-api)): Mobile app that gets people from behind their phones and on dates. The idea was to have a limit amount of messages and to push users off the platform as soon as possible.
 - 👁 [scoped](https://github.com/drewrodrigues/scoped): Desktop application which helps you stay on track with goals and focus on daily action to move you forward
+- 👥 [socially](https://github.com/drewrodrigues/socially): Mobile app that helps you be social with people around you now
 
 ### 👍🏽 Thanks For Dropping By
 - 👀 Checkout my <a href="https://portfolio.drewrodrigues.com/" target="_blank">portfolio</a>
