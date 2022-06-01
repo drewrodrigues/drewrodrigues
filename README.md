@@ -42,6 +42,7 @@
 - 📌 [dashEasy](https://github.com/drewrodrigues/dashEasy): Chrome extension dashboard for keeping track of basic things
 - 🍺 [smallBatchBrewing](https://github.com/drewrodrigues/smallBatchBrewing/tree/master/src): Simple tool to help convert beers recipes down to home brewing quantities
 - 📦 [casket_drop](https://github.com/drewrodrigues/casket_drop): Clothing subscription box that provides fresh clothes & accessories to your door every month
+- 📏 [fitovian](https://github.com/drewrodrigues/fitovian): Learning magagement system for weight loss curriculum
 
 ### 👍🏽 Thanks For Dropping By
 - 👀 Checkout my <a href="https://portfolio.drewrodrigues.com/" target="_blank">portfolio</a>
