@@ -54,4 +54,4 @@
 
 ### 👍🏽 Thanks For Dropping By
 - 👀 Checkout my <a href="https://portfolio.drewrodrigues.com/" target="_blank">portfolio</a>
-- 📫 Email me at <a href="mailto:me@drewrodrigues.com">me@drewrodrigues.com</a>
+- 📫 Email me at <a href="mailto:me@drewrodrigues.com">rodandrew95@gmail.com</a>
