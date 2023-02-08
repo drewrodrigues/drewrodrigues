@@ -1,7 +1,9 @@
 # Hey, I'm Drew 👋🏽
 <p>I'm a self-taught Software Engineer from 🌁 San Francisco, California working at <a href="https://www.microsoft.com/en-us/">Microsoft</a>. I've worked on Lobe, <a href="https://learn.microsoft.com/en-us/ai-builder/overview">AI Builder</a>, <a href="https://learn.microsoft.com/en-us/power-apps/cards/overview">Power Cards</a> and currently on secret things.</p>
 
-### 💻 Things I Love & Create With
+- 👀 Checkout my <a href="https://portfolio.drewrodrigues.com/" target="_blank">portfolio</a>
+- 📫 Email me at <a href="mailto:me@drewrodrigues.com">rodandrew95@gmail.com</a>
+
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -31,7 +33,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🧑🏽‍💻 Cool Things I've Built
 > Many of these are rough prototypes or not fully built out. I enjoy building things, so they don't always have to be complete for me to resolve my curiousity in an area.
 - 🧱 [blocky](https://github.com/drewrodrigues/blocky): A chrome extension that makes time blocking seemless in Google Calendar
 - 📈  [wolfGuard](https://github.com/drewrodrigues/wolfGuard): Experimental backtesting & day trading platform using the Interactive Broker API
@@ -51,7 +52,3 @@
 - 🍺 [smallBatchBrewing](https://github.com/drewrodrigues/smallBatchBrewing/tree/master/src): Simple tool to help convert beers recipes down to home brewing quantities
 - 📦 [casket_drop](https://github.com/drewrodrigues/casket_drop): Clothing subscription box that provides fresh clothes & accessories to your door every month
 - 📏 [fitovian](https://github.com/drewrodrigues/fitovian): Learning magagement system for weight loss curriculum
-
-### 👍🏽 Thanks For Dropping By
-- 👀 Checkout my <a href="https://portfolio.drewrodrigues.com/" target="_blank">portfolio</a>
-- 📫 Email me at <a href="mailto:me@drewrodrigues.com">rodandrew95@gmail.com</a>
