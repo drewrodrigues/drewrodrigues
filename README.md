@@ -1,7 +1,6 @@
 # Hey, I'm Drew 👋🏽
 <p>I'm a self-taught Software Engineer from 🌁 San Francisco, California working at <a href="https://www.microsoft.com/en-us/">Microsoft</a>. I've worked on Lobe, <a href="https://learn.microsoft.com/en-us/ai-builder/overview">AI Builder</a>, <a href="https://learn.microsoft.com/en-us/power-apps/cards/overview">Power Cards</a> and currently on secret things.</p>
 
-- 👀 Checkout my <a href="https://portfolio.drewrodrigues.com/" target="_blank">portfolio</a>
 - 📫 Email me at <a href="mailto:me@drewrodrigues.com">rodandrew95@gmail.com</a>
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
