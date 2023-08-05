@@ -52,3 +52,4 @@
 - 🍺 [smallBatchBrewing](https://github.com/drewrodrigues/smallBatchBrewing/tree/master/src): Simple tool to help convert beers recipes down to home brewing quantities
 - 📦 [casket_drop](https://github.com/drewrodrigues/casket_drop): Clothing subscription box that provides fresh clothes & accessories to your door every month
 - 📏 [fitovian](https://github.com/drewrodrigues/fitovian): Learning magagement system for weight loss curriculum
+-  🧠 [mindfully](https://github.com/drewrodrigues/mindfully): Mindful website blocker chrome extension
