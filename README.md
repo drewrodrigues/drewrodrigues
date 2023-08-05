@@ -36,7 +36,7 @@
 > Many of these are rough prototypes or not fully built out. I enjoy building things, so they don't always have to be complete for me to resolve my curiousity in an area.
 - 🧱 [blocky](https://github.com/drewrodrigues/blocky): A chrome extension that makes time blocking seemless in Google Calendar
 - 📈  [wolfGuard](https://github.com/drewrodrigues/wolfGuard): Experimental backtesting & day trading platform using the Interactive Broker API
-- 📄 [better_jobs](better_jobs): Save time finding jobs matches through keywords and point allocations
+- 📄 [better_jobs](https://github.com/drewrodrigues/better_jobs): Save time finding jobs matches through keywords and point allocations
 - 👟 [agile_tracker](https://github.com/drewrodrigues/agile_tracker): Sprint based project management tool based on Pivotal Tracker
 - 🏔 [tripmates](https://github.com/drewrodrigues/tripmates): Trip planning made social
 - 📝 [quiz](https://github.com/drewrodrigues/quiz): Simple stateless quiz builder
