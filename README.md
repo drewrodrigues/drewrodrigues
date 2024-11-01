@@ -1,5 +1,5 @@
 # Hey, I'm Drew 👋🏽
-<p>I'm a Software Engineer from 🌁 San Francisco, California working at <a href="https://www.microsoft.com/en-us/">Microsoft</a> on Lobe, <a href="https://learn.microsoft.com/en-us/ai-builder/overview">AI Builder</a>, <a href="https://learn.microsoft.com/en-us/power-apps/cards/overview">Power Cards</a> and currently on secret things.</p>
+<p>I'm a Software Engineer from 🌁 San Francisco, California working at <a href="https://www.microsoft.com/en-us/">Microsoft</a> on Lobe, <a href="https://learn.microsoft.com/en-us/ai-builder/overview">AI Builder</a>, <a href="https://learn.microsoft.com/en-us/power-apps/cards/overview">Power Cards</a> and currently on <a href="https://www.microsoft.com/en-us/microsoft-365/copilot/copilot-for-sales">Copilot for Sales</a>a>.</p>
 
 - 👀 Checkout my <a href="https://portfolio.drewrodrigues.com/" target="_blank">portfolio</a>
 - 📫 Email me at <a href="mailto:me@drewrodrigues.com">me@drewrodrigues.com</a>
